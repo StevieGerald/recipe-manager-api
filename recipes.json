@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Jollof Rice",
+    "ingredients": [
+      "Rice",
+      "Tomatoes",
+      "Pepper",
+      "Onion",
+      "Vegetable Oil",
+      "Seasoning Cubes",
+      "Salt",
+      "meat stock",
+      "water"
+    ],
+    "instructions": "Blend tomatoes, pepper, and onions. Fry the mixture in oil, add seasoning, meat stock and water, then the rice, cook until tender.",
+    "createdAt": "2026-07-02T01:39:01.361Z",
+    "updatedAt": "2026-07-02T01:39:01.361Z"
+  },
+  {
+    "id": 2,
+    "name": "Yam Porridge",
+    "ingredients": [
+      "Yam",
+      "Palm Oil",
+      "Pepper",
+      "Onion",
+      "Crayfish",
+      "Seasoning Cubes",
+      "Salt"
+    ],
+    "instructions": "Boil yam with pepper and onions. Add palm oil, crayfish, seasoning, and cook until soft.",
+    "createdAt": "2026-07-02T01:39:01.361Z",
+    "updatedAt": "2026-07-02T01:39:01.361Z"
+  },
+  {
+    "id": 3,
+    "name": "Zobo Drink",
+    "ingredients": [
+      "Hibiscus Leaves",
+      "Ginger",
+      "Pineapple",
+      "clove",
+      "Water"
+    ],
+    "instructions": "Boil hibiscus leaves with ginger and clove, strain, add pineapple juice, and chill before serving.",
+    "createdAt": "2026-07-02T01:39:01.361Z",
+    "updatedAt": "2026-07-02T01:39:01.361Z"
+  },
+  {
+    "id": 4,
+    "name": "Kunu Aya",
+    "ingredients": [
+      "Tiger Nuts",
+      "Dates",
+      "Coconut",
+      "Water"
+    ],
+    "instructions": "Blend soaked tiger nuts, dates, and coconut with water, then strain and refrigerate.",
+    "createdAt": "2026-07-02T01:40:50.865Z",
+    "updatedAt": "2026-07-02T01:40:50.865Z"
+  },
+  {
+    "id": 5,
+    "name": "Moi Moi",
+    "ingredients": [
+      "Beans",
+      "Pepper",
+      "Onion",
+      "Vegetable Oil",
+      "Egg",
+      "Seasoning Cubes"
+    ],
+    "instructions": "Blend peeled beans with pepper and onions, mix with oil and seasoning, pour into moulds, add egg if desired, and steam until firm.",
+    "createdAt": "2026-07-02T01:40:50.865Z",
+    "updatedAt": "2026-07-02T01:40:50.865Z"
+  },
+  {
+    "id": 6,
+    "name": "Fried Rice",
+    "ingredients": [
+      "Rice",
+      "Carrots",
+      "Green Beans",
+      "Sweet Corn",
+      "Green Peas",
+      "Liver",
+      "Vegetable Oil",
+      "Seasoning Cubes",
+      "soy sauce"
+    ],
+    "instructions": "Cook the rice separately. Stir-fry vegetables and liver, then combine with the cooked rice, season and soy sauce.",
+    "createdAt": "2026-07-02T01:40:50.865Z",
+    "updatedAt": "2026-07-02T01:40:50.865Z"
+  },
+  {
+    "id": 7,
+    "name": "Pizza",
+    "ingredients": [
+      "Cheese",
+      "Flour"
+    ],
+    "instructions": "Bake for 20 minutes",
+    "createdAt": "2026-07-02T16:28:28.254Z",
+    "updatedAt": "2026-07-02T16:28:28.255Z"
+  }
+]
