@@ -1,7 +1,13 @@
 import express from "express";
 import { validateRecipe } from "../middleware/validateRecipe.js";
 
-import { getAllRecipes, getRecipeById, createRecipe, updateRecipe, deleteRecipe} from "../controllers/recipeController.js";
+import {
+  getAllRecipes,
+  getRecipeById,
+  createRecipe,
+  updateRecipe,
+  deleteRecipe,
+} from "../controllers/recipeController.js";
 
 const router = express.Router();
 
